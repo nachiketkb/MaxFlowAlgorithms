@@ -1,0 +1,73 @@
+>>> runfile('/Users/nachiketbhagwat/Study/Algorithms/MaxFlowAlgorithms/Test.py',
+wdir='/Users/nachiketbhagwat/Study/Algorithms/MaxFlowAlgorithms')
+Reloaded modules: FordFulkerson
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 200
+maxedges: 198
+--- 0.150463819504 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 400
+maxedges: 398
+--- 0.147504091263 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 600
+maxedges: 598
+--- 0.153986215591 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 800
+maxedges: 798
+--- 0.151221990585 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 1000
+maxedges: 998
+--- 0.15399980545 seconds ---
+2002 47872 1 2
+[1->1003:4033, 1003->4:259]
+iterations: 3493
+maxflow: 1089599
+maxnodes: 1200
+maxedges: 5383
+--- 19.0645399094 seconds ---
+2002 47872 1 2
+[1->1003:4033, 1003->4:259]
+iterations: 7499
+maxflow: 2333070
+maxnodes: 1400
+maxedges: 10083
+--- 150.837173939 seconds ---
+2002 47872 1 2
+[1->1003:4033, 1003->4:259]
+iterations: 11054
+maxflow: 3432108
+maxnodes: 1600
+maxedges: 14783
+--- 493.602539062 seconds ---
+2002 47872 1 2
+[1->1003:4033, 1003->4:259]
+iterations: 14557
+maxflow: 4510652
+maxnodes: 1800
+maxedges: 19483
+--- 914.834302187 seconds ---
+2002 47872 1 2
+[1->1003:4033, 1003->4:259]
+iterations: 18251
+maxflow: 5662599
+maxnodes: 2000
+maxedges: 23915
+--- 1733.48625517 seconds ---

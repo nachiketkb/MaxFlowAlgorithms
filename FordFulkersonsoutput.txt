@@ -1,0 +1,77 @@
+Python 2.7.11 |Anaconda 4.0.0 (x86_64)| (default, Dec  6 2015, 18:57:58) 
+[GCC 4.2.1 (Apple Inc. build 5577)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+Anaconda is brought to you by Continuum Analytics.
+Please check out: http://continuum.io/thanks and https://anaconda.org
+>>> runfile('/Users/nachiketbhagwat/Study/Algorithms/MaxFlowAlgorithms/Test.py',
+wdir='/Users/nachiketbhagwat/Study/Algorithms/MaxFlowAlgorithms')
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 200
+maxedges: 198
+--- 0.145694971085 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 400
+maxedges: 398
+--- 0.142898082733 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 600
+maxedges: 598
+--- 0.138528108597 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 800
+maxedges: 798
+--- 0.138313055038 seconds ---
+2002 47872 1 2
+[]
+iterations: 1
+maxflow: 0
+maxnodes: 1000
+maxedges: 998
+--- 0.141333818436 seconds ---
+2002 47872 1 2
+[1->1200:9374, 1200->242:133]
+iterations: 3511
+maxflow: 1089599
+maxnodes: 1200
+maxedges: 5383
+--- 1.8485558033 seconds ---
+2002 47872 1 2
+[1->1400:9801, 1400->442:133]
+iterations: 7517
+maxflow: 2333070
+maxnodes: 1400
+maxedges: 10083
+--- 12.8874430656 seconds ---
+2002 47872 1 2
+[1->1600:8763, 1600->642:133]
+iterations: 11072
+maxflow: 3432108
+maxnodes: 1600
+maxedges: 14783
+--- 30.5549740791 seconds ---
+2002 47872 1 2
+[1->1800:9708, 1800->842:133]
+iterations: 14575
+maxflow: 4510652
+maxnodes: 1800
+maxedges: 19483
+--- 53.0287759304 seconds ---
+2002 47872 1 2
+[1->2000:5810, 2000->1002:398]
+iterations: 18269
+maxflow: 5662599
+maxnodes: 2000
+maxedges: 23915
+--- 80.2181870937 seconds ---
